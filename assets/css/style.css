@@ -6,6 +6,13 @@
 }
 body{
     font-family: 'Atma', cursive;
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
 }
 :root{
     --color1:#14147D;
@@ -13,6 +20,7 @@ body{
     --color3:#006C27;
     --color4:#FD0056;
 }
+
 .cmn_h5{
     font-size: 19px;
     color: #ffffff;
@@ -74,3 +82,104 @@ width: 60%;
  color: black;
 }
 /* header_top_section_end */
+/* /* menubar_section_start *./ */
+.manubar_section_start{
+background-color: var(--color4);
+
+}
+.manubar_section_main{
+background-color: #FF0505;
+}
+.manubar_section_main ul{
+    margin:0px;
+}
+.manubar_section_main ul li{
+display: inline-block;
+padding: 4px 4px;
+}
+.manubar_section_main ul li:hover{
+ background-color: #006C27;
+}
+.manubar_section_main ul li:hover a{
+    color: #A3EEAE;
+   }
+.manubar_section_main ul li:nth-child(1){
+  background-color: var(--color3);
+  border-radius:4px;
+  border-bottom: 2px solid white;
+}
+
+.manubar_section_main ul li a{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 15px;
+    /* padding: 4px; */
+} 
+.menu_li_a_cmmn{
+    color: #A3EEAE!important;
+    font-size: 17px;
+}
+.mobile_view{
+padding-left: 45px;
+}
+.svg-inline--fa {
+    height: 2em;
+}
+/* menubar_section_end */
+/* give_blood_save_life_start */
+.give_blood_save_life{
+    background-image: url('../images/background1.jpg');
+    background-size:cover;
+    min-height:450px;
+    background-repeat: no-repeat;
+}
+.give_blood_save_life_up_section{
+position: relative;
+text-align: center;
+}
+.give_blood_save_life_up_section h4{
+    text-align: center;
+    font-size: 33px;
+    font-weight: 600;
+    color: white;
+    padding-top:40px;
+}
+.give_blood_save_life_up_one{
+width:200px;
+height: 200px;
+text-align: center;
+display: inline-block;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 60px;
+    background-color: rgba(255,255,255,0.2);
+    border-radius: 50% !important;
+    padding: 35px 0;
+    -webkit-box-shadow: 0px 0px 5px 3px rgb(76 69 76 / 38%);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(76,69,76,0.38);
+    box-shadow: 0px 0px 5px 3px rgb(76 69 76 / 38%);
+    cursor: pointer;
+    transition: 0.7s;
+
+}
+.give_blood_save_life_up_one:hover{
+    background-color:#BF1C12;
+    opacity: 0.8;
+}
+.give_blood_size{
+    width: 35%;
+    padding-top:0px;
+
+}
+.give_blood_save_life_up_one h5{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding-top:4px;
+}
+/* give_blood_save_life_end */
+/* Advisory_Council_start */
+.Advisory_Council_start{
+    
+}
+/* Advisory_Council_end */

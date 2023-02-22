@@ -1,3 +1,36 @@
+@media (min-width:992px) and (max-width:1199.98px){
+    .manubar_section_main ul li a {
+        font-size: 12px;
+        /* padding: 4px; */
+    }
+    .give_blood_save_life_up_one {
+        margin-left: 50px;
+        margin-right: 50px;
+      }
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+    .manubar_section_main ul li{
+        display: block;
+        padding: 4px 4px;
+        }
+        .give_blood_save_life_up_one {
+            margin-left: 0px;
+            margin-right: 20px;
+          }
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+    .manubar_section_main ul li{
+        display: block;
+        padding: 4px 4px;
+        }
+        .give_blood_save_life_up_one {
+           text-align: center;
+           margin-left: 128px;
+          }
+}
+
 @media (max-width:575.98px){
     .header_top_left {
         text-align: center;
@@ -5,9 +38,12 @@
     .header_top_right_right .btn {
         font-size: 12px;
     }
-}
-@media(min-width:576px) and (max-width:767.98px){
-    .header_top_left {
-        text-align: center;
-    }
+    .manubar_section_main ul li{
+        display: block;
+        padding: 4px 4px;
+        }
+        .give_blood_save_life_up_section{
+        
+            text-align: center;
+            }
 }
