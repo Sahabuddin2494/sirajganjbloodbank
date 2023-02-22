@@ -1,0 +1,13 @@
+@media (max-width:575.98px){
+    .header_top_left {
+        text-align: center;
+    }
+    .header_top_right_right .btn {
+        font-size: 12px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .header_top_left {
+        text-align: center;
+    }
+}
