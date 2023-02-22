@@ -180,6 +180,42 @@ display: inline-block;
 /* give_blood_save_life_end */
 /* Advisory_Council_start */
 .Advisory_Council_start{
-    
+    background-color: var(--color4);
+}
+.Advisory_Council_one{
+    background-color: var(--color4);
+    color: white;
+    text-align: center;
+}
+.Advisory_Council_one h5{
+font-weight: bold;
+}
+.Advisory_Council_one p{
+    font-size: 14px;
+}
+.Advisory_Council_one .btn{
+    border: 1px solid white;
+    color: white;
+    padding:6px 25px;
+    font-weight: 600;
+}
+.Advisory_Council_one .btn:focus{
+   color: black;
+   background-color:#FFC107;
+   border-color:#FFC107;
 }
 /* Advisory_Council_end */
+/* list_of_blood_donars_start */
+.list_of_blood_donars{
+
+}
+.list_of_blood_donars_mid{
+    background-color:#F9F9F9;
+}
+.list_of_blood_donars_title{
+text-align: center;
+}
+.list_of_blood_donars_title h2{
+    font-weight:600;
+}
+/* list_of_blood_donars_end */
