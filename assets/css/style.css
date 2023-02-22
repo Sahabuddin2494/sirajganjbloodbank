@@ -218,4 +218,54 @@ text-align: center;
 .list_of_blood_donars_title h2{
     font-weight:600;
 }
+.blood_group_one{
+ text-align: center;
+}
+.blood_group_one a{
+    background-color: red;
+    color: white;
+    padding: 30px 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
+}
 /* list_of_blood_donars_end */
+/* background-circle-section_start */
+.background_circle_section{
+    background-image: url('../images/background2.jpg');
+    width: 100%;
+    height: 300px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+/* background_circle_section_end */
+/* .Why donate blood?_start */
+.Why_donate_blood{
+
+}
+.Why_donate_blood_left{
+
+}
+.Why_donate_blood_right{
+
+}
+.Why_donate_blood_right_title{
+
+}
+.Why_donate_blood_right_title h2{
+    font-weight: 600;
+}
+.Why_donate_blood_right p{
+
+}
+/* Why donate blood?_end */
+/* .footer_section_start */
+.footer_section_start{
+    background-image: url(../images/footer_backgroud.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 320px;
+    width: 100%;
+}
+/* footer_section_end */
