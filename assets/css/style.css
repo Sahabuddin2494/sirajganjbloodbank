@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root{
+    --color1:#14147D;
+    --color2:#FF0505;
+    --color3:#006C27;
+    --color4:#FD0056;
+}
+/* header_top_section_start */
+.header_top_section{
+    background-color:var(--color1);
+}
+.header_top_left{
+
+}
+.header_top_right{
+    
+}
+/* header_top_section_end */
