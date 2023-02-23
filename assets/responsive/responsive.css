@@ -29,6 +29,14 @@
            text-align: center;
            margin-left: 128px;
           }
+          .free_oxygen_services_details_left h5 {
+            color: white;
+            font-size: 10px;
+        }
+        .free_oxygen_services_details_left small {
+            color: #E7CAA5;
+            font-size: 9px;
+        }
 }
 
 @media (max-width:575.98px){

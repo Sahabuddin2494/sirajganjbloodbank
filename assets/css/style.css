@@ -270,3 +270,60 @@ text-align: center;
 }
 /* footer_section_end */
 /* home_page_end */
+/* free_oxygen_services_page_start */
+.free_oxygen_services_start{
+
+}
+.free_oxygen_services_main{
+
+}
+.free_oxygen_services_manu_bar{
+font-weight: 500;
+font-size: 20px;
+}
+.free_oxygen_services_details{
+background-color:#FD0056;
+}
+.free_oxygen_services_details_left{
+
+}
+.free_oxygen_services_details_left h5{
+color: white;
+}
+.free_oxygen_services_details_left small{
+color:#E7CAA5;
+}
+.free_oxygen_services_details_right{
+
+}
+/* free_oxygen_services_page_start */
+/* learn_about_us_page_start */
+.learn_about_us_start{
+
+}
+.learn_about_us_up_section{
+
+}
+.learn_about_us_up_para{
+
+}
+.learn_about_us_up_para p{
+    /* color:red; */
+    font-weight:500;
+}
+.learn_about_us_up_para_title{
+text-align: center;
+}
+.learn_about_us_up_para_title h5{
+    font-weight: bold;
+}
+.learn_about_us_important_section{
+
+}
+.learn_about_us_important_link small{
+    font-weight: bold;
+}
+.learn_about_us_social{
+    
+}
+/* learn_about_us_page_end */
