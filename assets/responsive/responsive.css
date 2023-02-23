@@ -1,57 +1,70 @@
-@media (min-width:992px) and (max-width:1199.98px){
+@media (min-width:992px) and (max-width:1199.98px) {
     .manubar_section_main ul li a {
         font-size: 12px;
         /* padding: 4px; */
     }
+
     .give_blood_save_life_up_one {
         margin-left: 50px;
         margin-right: 50px;
-      }
+    }
 }
 
-@media(min-width:768px) and (max-width:991.98px){
-    .manubar_section_main ul li{
+@media(min-width:768px) and (max-width:991.98px) {
+    .manubar_section_main ul li {
         display: block;
         padding: 4px 4px;
-        }
-        .give_blood_save_life_up_one {
-            margin-left: 0px;
-            margin-right: 20px;
-          }
+    }
+
+    .give_blood_save_life_up_one {
+        margin-left: 0px;
+        margin-right: 20px;
+    }
 }
 
-@media(min-width:576px) and (max-width:767.98px){
-    .manubar_section_main ul li{
+@media(min-width:576px) and (max-width:767.98px) {
+    .manubar_section_main ul li {
         display: block;
         padding: 4px 4px;
-        }
-        .give_blood_save_life_up_one {
-           text-align: center;
-           margin-left: 128px;
-          }
-          .free_oxygen_services_details_left h5 {
-            color: white;
-            font-size: 10px;
-        }
-        .free_oxygen_services_details_left small {
-            color: #E7CAA5;
-            font-size: 9px;
-        }
+    }
+
+    .give_blood_save_life_up_one {
+        text-align: center;
+        margin-left: 128px;
+    }
+
+    .free_oxygen_services_details_left h5 {
+        color: white;
+        font-size: 10px;
+    }
+
+    .free_oxygen_services_details_left small {
+        color: #E7CAA5;
+        font-size: 9px;
+    }
 }
 
-@media (max-width:575.98px){
+@media (max-width:575.98px) {
     .header_top_left {
         text-align: center;
     }
+
     .header_top_right_right .btn {
         font-size: 12px;
     }
-    .manubar_section_main ul li{
+
+    .manubar_section_main ul li {
         display: block;
         padding: 4px 4px;
-        }
-        .give_blood_save_life_up_section{
-        
-            text-align: center;
-            }
+    }
+
+    .give_blood_save_life_up_section {
+
+        text-align: center;
+    }
+
+    .working_member_left {
+
+        text-align: center;
+    }
 }

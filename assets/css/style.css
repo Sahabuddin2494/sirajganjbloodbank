@@ -324,6 +324,76 @@ text-align: center;
     font-weight: bold;
 }
 .learn_about_us_social{
-    
+
 }
 /* learn_about_us_page_end */
+/* .advisory_council_page_start */
+.advisory_council_start{
+
+}
+.advisory_council_main{
+
+}
+
+.advisory_council_title{
+text-align: center;
+}
+.advisory_title_color{
+    color: #FF00FF;
+}
+.advisory_council_title h3{
+    font-weight: 600;
+}
+.advisory_council_title h2{
+    font-weight:700;
+}
+.advisory_council_big_img{
+    text-align: center;
+}
+.advisory_council_big_img_para{
+
+}
+.advisory_council_big_img_para p{
+    font-weight:bold;
+}
+/* advisory_council_page_end */
+/* moderator_page_start */
+.moderator_page_start{
+
+}
+.Executive_Council_main{
+text-align: center;
+}
+.Executive_Council_main_img{
+text-align: center;
+}
+.Executive_Council_main_details{
+
+}
+.Executive_Council_main_details h4{
+font-weight: 600;
+}
+.Executive_Council_main_details p{
+font-weight: 500;
+}
+.working_member_left{
+text-align: right;
+}
+.working_member_right{
+text-align:center;
+}
+.working_member_right h3{
+    font-weight: 600;
+}
+.working_member_right p{
+    font-weight: 500;
+}
+.working_member_section{
+
+}
+/* Executive_Council_start */
+.Executive_Council_start{
+
+}
+/* Executive_Council_end */
+/* moderator_page_end */
