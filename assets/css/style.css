@@ -397,3 +397,49 @@ text-align:center;
 }
 /* Executive_Council_end */
 /* moderator_page_end */
+/* register_form_section_start */
+.register_form_section{
+
+}
+.register_form_main{
+
+}
+.register_form_img{
+text-align: center;
+
+}
+.register_form_details_section{
+    background-color: #FD0056;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 0px red;
+}
+.register_form_details_down{
+
+}
+.register_form_details_down .btn{
+    background-color: #BF1C12;
+    border-color: white;
+    color: white;
+    margin-top: 14px;
+}
+.register_form_img .form_img_size{
+width: 50%;
+}
+.register_form_extra_section{
+    text-align: center;
+}
+.register_form_extra_section h4{
+    color: #78909C;
+    margin-bottom: 0px;
+}
+.register_form_extra_section .btn{
+    background-color: red;
+    color: white;
+}
+.register_form_extra_section .btn:focus{
+    background-color:navy;
+    color: yellow;
+}
+/* register_form_section_end */
