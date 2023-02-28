@@ -455,3 +455,51 @@ width: 50%;
     color: yellow;
 }
 /* register_form_section_end */
+/* finding_a_blood_donar_page_start */
+.finding_a_blood_donar{
+
+}
+.finding_a_blood_donar_main{
+
+}
+.finding_a_blood_donar_title{
+
+}
+.finding_a_blood_donar_search{
+background-color: #E9ECEF;
+}
+.finding_a_blood_donar_search ul{
+margin: 0px;
+padding-left:10px;
+}
+.finding_a_blood_donar_search  ul li{
+display:inline-block;
+
+}
+.finding_a_blood_donar_search ul li a{
+    font-size: 13px;
+    font-weight: 500;
+    color:#FD0056;
+}
+.finding_a_blood_donar_search ul li a .svg-inline--fa {
+    height: 1em;
+}
+.finding_a_blood_donar_registation{
+
+}
+.finding_a_blood_donar_registation_start{
+    background-color: #FD0056;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px 0px red;
+}
+.finding_a_blood_donar_registation_start label{
+    color: white;
+    font-size: 14px;
+}
+.finding_donar_submit{
+    text-align: center;
+}
+.finding_donar_submit .btn{
+
+}
+/* finding_a_blood_donar_page_end */
