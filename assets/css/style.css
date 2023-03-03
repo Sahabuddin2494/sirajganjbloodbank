@@ -501,6 +501,8 @@ display:inline-block;
     text-align: center;
 }
 .finding_donar_submit .btn{
-
+background-color:green;
+color:white;
+font-weight: 500;
 }
 /* finding_a_blood_donar_page_end */
