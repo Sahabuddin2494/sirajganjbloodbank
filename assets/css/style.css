@@ -519,5 +519,33 @@ background-color: #FEEFD9;
     font-size: 16px;
     font-style: italic;
 }
+.m_blood_group_details{
+    background-color: #FD0056;
+    border-radius: 10px;
+}
+.m_blood_group_right_left{
+ text-align: center;
+}
+.m_blood_group_right_left .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 2em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    background-color: white;
+    padding: 13px 14px;
+    border-radius: 50%;
+    color: red;
+}
+.m_blood_group_right_right{
 
+}
+.m_blood_group_right_right h5{
+    color: white;
+    font-size: 18px;
+}
+.m_blood_group_right_right h5 span{
+    color:black;
+    font-size: 17px;
+    padding-left: 14px;
+}
 /* need_bllod_post_it_page_end */
