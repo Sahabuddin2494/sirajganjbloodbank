@@ -506,3 +506,18 @@ color:white;
 font-weight: 500;
 }
 /* finding_a_blood_donar_page_end */
+/* need_blood_post_it_page_start */
+.need_blood_post_it_start_section{
+background-color: #FEEFD9;
+}
+.need_blood_post_one{
+
+}
+.need_blood_post_one label{
+    /* color:red; */
+    font-weight:500;
+    font-size: 16px;
+    font-style: italic;
+}
+
+/* need_bllod_post_it_page_end */
